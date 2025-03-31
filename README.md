@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 I’m currently working on development a mobile app
+🌱 I’m currently learning Flutter and Firebase
 <!--
 **GabriellMariotti/GabriellMariotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
